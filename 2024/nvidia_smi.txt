@@ -1,0 +1,31 @@
+Mon Dec 23 15:10:55 2024       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 565.90                 Driver Version: 565.90         CUDA Version: 12.7     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                  Driver-Model | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 4060      WDDM  |   00000000:01:00.0  On |                  N/A |
+|  0%   36C    P8             N/A /  115W |     825MiB /   8188MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A      2272    C+G   C:\Windows\explorer.exe                     N/A      |
+|    0   N/A  N/A      2804    C+G   ...5n1h2txyewy\ShellExperienceHost.exe      N/A      |
+|    0   N/A  N/A      3252    C+G   ...6.0_x64__cv1g1gvanyjgm\WhatsApp.exe      N/A      |
+|    0   N/A  N/A      3920    C+G   ...2txyewy\StartMenuExperienceHost.exe      N/A      |
+|    0   N/A  N/A      5032    C+G   ...oogle\Chrome\Application\chrome.exe      N/A      |
+|    0   N/A  N/A      7496    C+G   ....5688.0_x64__8j3eq9eme6ctt\IGCC.exe      N/A      |
+|    0   N/A  N/A      8456    C+G   ...oogle\Chrome\Application\chrome.exe      N/A      |
+|    0   N/A  N/A      8864    C+G   ...nt.CBS_cw5n1h2txyewy\SearchHost.exe      N/A      |
+|    0   N/A  N/A     10448    C+G   ...__8wekyb3d8bbwe\WindowsTerminal.exe      N/A      |
+|    0   N/A  N/A     10688    C+G   C:\Windows\System32\ShellHost.exe           N/A      |
+|    0   N/A  N/A     10784    C+G   ..._x64__cw5n1h2txyewy\WidgetBoard.exe      N/A      |
+|    0   N/A  N/A     11796    C+G   ...ekyb3d8bbwe\PhoneExperienceHost.exe      N/A      |
++-----------------------------------------------------------------------------------------+
