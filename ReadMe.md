@@ -5,5 +5,5 @@ In this repository I will upload the all files refered as showcase-stories publi
 
 The medium-archive was organized by years.
 
-Thanks a lot for **Follow** me on **Medium**!
+Thanks a lot for **Follow** me(as author) and each my article on **Medium** ... !
 
