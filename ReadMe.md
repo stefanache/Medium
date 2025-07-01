@@ -9,4 +9,6 @@ Thanks a lot for **Follow** me(as ***author***) and each my ***article*** on [**
 
 Now I publish this [article](https://medium.com/@ion.stefanache0/real-time-asr-stt-s2t-with-gradio-9703e83b28ec) about gradio and AST/STT=S2T!
 
+Also you can see and this [article](https://medium.com/p/9a4b8e7f0ece) about AI-Math-Tutor/Chatbot.
+
 Do not forget to **Follow me**!
