@@ -11,4 +11,6 @@ Now I publish this [article](https://medium.com/@ion.stefanache0/real-time-asr-s
 
 Also you can see and this [article](https://medium.com/p/9a4b8e7f0ece) about AI-Math-Tutor/Chatbot.
 
+Recent I posted this article [HTTP-Streamable with local FastAPI-AI-MCP-Server and Ollama LLM-server](https://medium.com/@ion.stefanache0/http-streamable-with-local-fastapi-ai-mcp-server-and-ollama-llm-server-a294ea334515)
+
 Do not forget to **Follow me**!
